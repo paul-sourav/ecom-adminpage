@@ -1,0 +1,7 @@
+{
+    "name":"k10",
+    "Price":109.95,
+    "category":"electronics",
+    "userid":"644f98cf65b24aa71907e57c",
+    "company":"lenovo"
+}

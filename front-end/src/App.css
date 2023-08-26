@@ -1,0 +1,24 @@
+.Nav{
+  background-color:#770DCC;
+  color: white;
+  display: flex;
+  width: 100%;
+  /* justify-content:; */
+}
+.Nav a {
+  text-decoration: dotted;
+  color: wheat;
+}
+.Nav li{
+   list-style-type:none;
+   padding: 12px;
+}
+
+.Nav li:hover{
+  background-color: rgba(239, 255, 13, 0.9) ;
+  color:#333;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin:0;
+}
